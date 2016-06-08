@@ -1,0 +1,14 @@
+{
+  "name": "postgres-utc-timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tape test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
